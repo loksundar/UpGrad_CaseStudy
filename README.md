@@ -64,7 +64,7 @@ Mohini Aggarwal and LokSundar Ganthi have worked on this project to derive the m
 
 
 ## Contact
-Created by [@mohinia09] - feel free to contact me!
+Created by [@loksundar] - feel free to contact me!
 
 
 <!-- Optional -->
